@@ -13,14 +13,10 @@ This project is about simulation – you must synthesise a data set.
 
 For this project I must create a data set by simulating a real-world phenomenon of my choosing. The phenomenon can be selected according to my preferences and can be of interest to me in my personal or professional life. Instead of collecting data related to the phenomenon, I should model and synthesize my data using python. 
 
-For this project you must create a data set by simulating a real-world phenomenon of
-your choosing. You may pick any phenomenon you wish – you might pick one that is
-of interest to you in your personal or professional life. Then, rather than collect data
-related to the phenomenon, you should model and synthesise such data using Python.
-We suggest you use the numpy.random package for this purpose.
-Specifically, in this project you should:
-• Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.
+Sepecifically, in this problem I should:
+
+- Choose a real-world phenomenon that can be measured and for which I could collect at least one-hundred data points across at least four different variables.
+
 • Investigate the types of variables involved, their likely distributions, and their
 relationships with each other.
 • Synthesise/simulate a data set as closely matching their properties as possible.
