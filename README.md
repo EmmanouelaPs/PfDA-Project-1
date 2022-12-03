@@ -9,7 +9,7 @@ Student ID: G00411374
 
 ## Problem Statement
 
-For this project I must *** create a data *** set by simulating a real-world phenomenon of my choosing. The phenomenon can be selected according to my preferences and can be of interest to me in my personal or professional life. Instead of collecting data related to the phenomenon, I should model and synthesize my data using python. 
+For this project I must ***create a data*** set by simulating a real-world phenomenon of my choosing. The phenomenon can be selected according to my preferences and can be of interest to me in my personal or professional life. Instead of collecting data related to the phenomenon, I should model and synthesize my data using python. 
 
 Sepecifically, in this problem I should:
 
