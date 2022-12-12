@@ -24,8 +24,6 @@ Sepecifically, in this problem I should:
 
 ## Introduction to My Data Set
 
-### Tools I will be using
-
 ## References
 
 1. [ReadMe File Commands Cheetsheet](https://levelup.gitconnected.com/github-readme-cheatsheet-617dff61fa23)
